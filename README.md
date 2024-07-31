@@ -1,5 +1,5 @@
 ## Hi
-I am a CS student and I mainly write java code for minecraft spiggot/paper. In the free time I enjoy to contribute to some open source plugins.
+I am a CS student and I mainly write java code for minecraft spigot/paper. In the free time I enjoy to contribute to some open source plugins.
 
 ### Have some eye candy
 
