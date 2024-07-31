@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi
+I am a CS student and I mainly write java code for minecraft spiggot/paper. In the free time I enjoy to contribute to some open source plugins.
 
+### Have some eye candy
+
+![Intybyte's Stats](https://github-readme-stats.vercel.app/api?username=Intybyte&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+
+These are the languages I use the most:
+
+![Intybyte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Intybyte&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 <!--
 **Intybyte/Intybyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
