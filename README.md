@@ -9,6 +9,8 @@ These are the languages I use the most:
 
 ![Intybyte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Intybyte&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
+Contributitions:
+
 ![Contributitions](https://github-readme-streak-stats.herokuapp.com/?user=Intybyte&theme=algolia&hide_border=false&hide_border=false&layout=compact)
 
 # History
