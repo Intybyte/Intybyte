@@ -15,6 +15,10 @@ Contributitions:
 
 # History
 
+### Lead developer of Cannons Revamped
+
+As the old cannon plugin was abandoned I updated the plugin to work with the latest versions, added backward compatibility, and refactored a lot of the codebase.
+
 ### Contributor to Slimefun
 
 Added feautres to slimefun and helped update to 1.21 by updating the tests, working together with the MockBukkit team.
@@ -36,3 +40,8 @@ A MapJammer plugin that hides you from dynmap/squaremap.
 NotEnoughOil that allows you to find oil veins and build a multiblock oil extractor to get its resources.
 SlimefunOil a plugin that adds realistic crude oil refinement processes and biproducts to use.
 Rewrote movecraft to allow slimefun items as fuel, allowing them to use resources the biproduct of SlimefunOil as fuel, like gasoline, kerosene, diesel etc.
+
+### Other works
+
+Addons for Slimefun: CustomItemGenerators
+BalancedDiet (WIP)
