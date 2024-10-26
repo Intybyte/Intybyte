@@ -15,6 +15,18 @@ Contributitions:
 
 # History
 
+### Contributor to Slimefun
+
+Added feautres to slimefun and helped update to 1.21 by updating the tests, working together with the MockBukkit team.
+
+### Contributor to AuraSkills
+
+Provided Italian translation and created some addons releated to the main plugin, CannonRPG and SorceryRestore (WIP).
+
+### Movecraft community developer
+
+Added some fixes and new features, whilte rewriting some old code.
+
 ### Developer/Owner of Winterfell
 
 I created many addons for my server and fixed important bugs, most of these repositories are private.
