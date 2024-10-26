@@ -43,5 +43,5 @@ Rewrote movecraft to allow slimefun items as fuel, allowing them to use resource
 
 ### Other works
 
-Addons for Slimefun: CustomItemGenerators
+Addons for Slimefun: CustomItemGenerators </br>
 BalancedDiet (WIP)
