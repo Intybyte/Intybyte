@@ -31,6 +31,10 @@ Provided Italian translation and created some addons releated to the main plugin
 
 Added some fixes and new features, whilte rewriting some old code.
 
+### ACF contributer
+
+Added sponge api 10 support to [Aikar's ACF](https://github.com/aikar/commands) (oh I hate having to deal with commands so much, at least ACF makes it easy)
+
 ### Developer/Owner of Winterfell
 
 I created many addons for my server and fixed important bugs, most of these repositories are private.
