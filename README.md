@@ -21,15 +21,15 @@ As the old cannon plugin was abandoned I updated the plugin to work with the lat
 
 ### Contributor to Slimefun
 
-Added feautres to slimefun and helped update to 1.21 by updating the tests, working together with the MockBukkit team.
+Added feautres to [Slimefun](https://github.com/Slimefun/Slimefun4) and helped update to 1.21 by updating the tests and core classes, working together with the MockBukkit team.
 
 ### Contributor to AuraSkills
 
-Provided Italian translation and created some addons releated to the main plugin, CannonRPG and SorceryRestore (WIP).
+Provided Italian translation for [AuraSkills](https://github.com/Archy-X/AuraSkills) and created some addons releated to the main plugin, CannonRPG and SorceryRestore (WIP). I suggest all server owners to use this over mcmmo as it is easily configurable and developers can add stuff to it with its good API, when I tried adding a skill to mcmmo myself it was hell.
 
 ### Movecraft community developer
 
-Added some fixes and new features, whilte rewriting some old code.
+Added to [Movecraft](https://github.com/APDevTeam/Movecraft) some fixes and new features, whilte rewriting some old code.
 
 ### ACF contributer
 
@@ -47,5 +47,5 @@ Rewrote movecraft to allow slimefun items as fuel, allowing them to use resource
 
 ### Other works
 
-Addons for Slimefun: CustomItemGenerators </br>
+Addons for Slimefun: [CustomItemGenerators](https://github.com/Intybyte/CustomItemGenerators) </br>
 BalancedDiet (WIP)
