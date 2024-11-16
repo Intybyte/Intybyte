@@ -31,7 +31,7 @@ Provided Italian translation for [AuraSkills](https://github.com/Archy-X/AuraSki
 
 Added to [Movecraft](https://github.com/APDevTeam/Movecraft) some fixes and new features, whilte rewriting some old code.
 
-### ACF contributer
+### ACF contributor
 
 Added sponge api 10 support to [Aikar's ACF](https://github.com/aikar/commands) (oh I hate having to deal with commands so much, at least ACF makes it easy)
 
