@@ -29,7 +29,7 @@ Provided Italian translation for [AuraSkills](https://github.com/Archy-X/AuraSki
 
 ### Movecraft community developer
 
-Added to [Movecraft](https://github.com/APDevTeam/Movecraft) some fixes and new features, whilte rewriting some old code.
+Added to [Movecraft](https://github.com/APDevTeam/Movecraft) some fixes and new features, on top of rewriting some old code.
 
 ### ACF contributor
 
