@@ -17,11 +17,11 @@ Contributitions:
 
 ### Lead developer of Cannons Revamped
 
-As the old cannon plugin was abandoned I updated the plugin to work with the latest versions, added backward compatibility, and refactored a lot of the codebase.
+As the old cannon plugin was abandoned I updated the plugin to work with the latest versions, added backward compatibility, refactored a lot of the codebase and added folia support and added hybrid server support.
 
 ### Contributor to Slimefun
 
-Added feautres to [Slimefun](https://github.com/Slimefun/Slimefun4) and helped update to 1.21 by updating the tests and core classes, working together with the MockBukkit team.
+Added feautres to [Slimefun](https://github.com/Slimefun/Slimefun4) and helped with the 1.21.x updates, by updating the tests and core classes, working together with the MockBukkit team.
 
 ### Contributor to AuraSkills
 
@@ -49,3 +49,7 @@ Rewrote movecraft to allow slimefun items as fuel, allowing them to use resource
 
 Addons for Slimefun: [CustomItemGenerators](https://github.com/Intybyte/CustomItemGenerators) </br>
 BalancedDiet (WIP)
+
+I occasionally make BepInEx mods for some free unity steam games I find cool, like:
+[CustomItems](https://github.com/Intybyte/CustomItems)
+[Shift Build](https://github.com/Intybyte/ShiftBuild)
