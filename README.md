@@ -40,14 +40,15 @@ Added sponge api 10 support to [Aikar's ACF](https://github.com/aikar/commands) 
 I created many addons for my server and fixed important bugs, most of these repositories are private.
 The main features I created were releated to Slimefun like for instance:
 
-A MapJammer plugin that hides you from dynmap/squaremap.
-NotEnoughOil that allows you to find oil veins and build a multiblock oil extractor to get its resources.
-SlimefunOil a plugin that adds realistic crude oil refinement processes and biproducts to use.
+[MapJammer](https://github.com/Intybyte/MapJammers): hides you from dynmap/squaremap when holding an eletrically charged jammer. </br>
+NotEnoughOil: that allows you to find oil veins and build a multiblock oil extractor to get its resources. </br>
+SlimefunOil: realistic crude oil refinement processes and biproducts to use. </br>
+
 Rewrote movecraft to allow slimefun items as fuel, allowing them to use resources the biproduct of SlimefunOil as fuel, like gasoline, kerosene, diesel etc.
 
 ### Other works
 
-Addons for Slimefun: [CustomItemGenerators](https://github.com/Intybyte/CustomItemGenerators) </br>
+[CustomItemGenerators](https://github.com/Intybyte/CustomItemGenerators) </br>
 BalancedDiet (WIP)
 
 I occasionally make BepInEx mods for some free unity steam games I find cool, like:
