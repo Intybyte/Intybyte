@@ -19,9 +19,13 @@ Contributitions:
 
 As the old cannon plugin was abandoned I updated the plugin to work with the latest versions, added backward compatibility, refactored a lot of the codebase and added folia support and added hybrid server support.
 
+### Developer of Pylon
+
+A spiritual succession to slimefun, more details at [PylonMC](https://github.com/pylonmc)
+
 ### Contributor to Slimefun
 
-Added feautres to [Slimefun](https://github.com/Slimefun/Slimefun4) and helped with the 1.21.x updates, by updating the tests and core classes, working together with the MockBukkit team.
+Added feautures to [Slimefun](https://github.com/Slimefun/Slimefun4) and helped with the 1.21.x updates, by updating the tests and core classes, working together with the MockBukkit team.
 
 ### Contributor to AuraSkills
 
