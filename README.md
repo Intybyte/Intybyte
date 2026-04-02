@@ -1,5 +1,5 @@
 ## Hi
-I am a CS student and I mainly write java code for minecraft spigot/paper. In the free time I enjoy to contribute to some open source plugins.
+I am a CS student and I mainly write java code for minecraft spigot/paper. In the free time I enjoy to contribute to some open source plugins or mod games.
 
 ### Have some eye candy
 
@@ -13,7 +13,7 @@ Contributitions:
 
 ![Contributitions](https://github-readme-streak-stats.herokuapp.com/?user=Intybyte&theme=algolia&hide_border=false&hide_border=false&layout=compact)
 
-# History
+## Minecraft Stuff
 
 ### Lead developer of Cannons Revamped
 
@@ -29,15 +29,11 @@ Added feautures to [Slimefun](https://github.com/Slimefun/Slimefun4) and helped 
 
 ### Contributor to AuraSkills
 
-Provided Italian translation for [AuraSkills](https://github.com/Archy-X/AuraSkills) and created some addons releated to the main plugin, CannonRPG and SorceryRestore (WIP). I suggest all server owners to use this over mcmmo as it is easily configurable and developers can add stuff to it with its good API, when I tried adding a skill to mcmmo myself it was hell.
-
-### Movecraft community developer
-
-Added to [Movecraft](https://github.com/APDevTeam/Movecraft) some fixes and new features, on top of rewriting some old code.
+Provided Italian translation for [AuraSkills](https://github.com/Archy-X/AuraSkills) and created an addon related to it: CannonRPG. I suggest all server owners to use this over mcmmo as it is easily configurable and developers can add stuff to it with its good API.
 
 ### ACF contributor
 
-Added sponge api 10 support to [Aikar's ACF](https://github.com/aikar/commands) (oh I hate having to deal with commands so much, at least ACF makes it easy)
+Added updated sponge support to [Aikar's ACF](https://github.com/aikar/commands)
 
 ### Developer/Owner of Winterfell
 
@@ -50,11 +46,27 @@ SlimefunOil: realistic crude oil refinement processes and biproducts to use. </b
 
 Rewrote movecraft to allow slimefun items as fuel, allowing them to use resources the biproduct of SlimefunOil as fuel, like gasoline, kerosene, diesel etc.
 
-### Other works
+## Other works
 
-[CustomItemGenerators](https://github.com/Intybyte/CustomItemGenerators) </br>
-BalancedDiet (WIP)
+I occasionally mod other games:
 
-I occasionally make BepInEx mods for some free unity steam games I find cool, like:
+### Works with BepInEx
+
 [CustomItems](https://github.com/Intybyte/CustomItems)
 [Shift Build](https://github.com/Intybyte/ShiftBuild)
+
+### Reverse Engineering and modding
+
+Modding other games that are compiled to assembly require reverse engineering and other skills, mainly I modded:
+
+[Cube World - Alpha](https://store.steampowered.com/app/1128000/Cube_World/)
+
+Made a mod that matches that rebalanced the pet Exp, earning more xp if the user has a greater level than the pet 
+https://github.com/Intybyte/CubeWorld-ExpBuff-PetAddition
+
+[The Enchanted Cave 2 - Windows](https://store.steampowered.com/app/368610/The_Enchanted_Cave_2/)
+
+The game is multplatform, but I focused on modding only the windows version, it also has an android version which might have been easier to mod.
+The game was written in Haxe 4, using Lime library, which has been a bit of a challenge to mod properly, I made a [ModLauncher](https://github.com/Intybyte/TEC2ModLauncher).
+
+The original dev also gave me permission to release a ghidra file containing the function names I decompiled, so probably will make a repository for that also. Requires more documentation as modding is not as "straight forward" as other cpp games due to hxcpp's custom Garbage Collector.
