@@ -7,7 +7,7 @@ I am a CS student and I mainly write java code for minecraft spigot/paper. In th
 
 These are the languages I use the most:
 
-![Intybyte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Intybyte&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+![Intybyte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Intybyte&theme=algolia&show_icons=true&hide_border=false&layout=compact&hide=JavaScript,HTML,CSS&langs_count=8)
 
 Contributitions:
 
